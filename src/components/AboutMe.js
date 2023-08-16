@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import SocialIcons from "../components/SocialIcons";
 import { useInView } from "react-intersection-observer";
 import { useState, useEffect } from "react";
-import resume from "../pages/about/akshat_resume.pdf";
+import resume from "../pages/about/akshat_resume1.pdf";
 
 const AboutMe = ({ name, email, location, availability, brand, major, skills }) => {
   const [ref, inView] = useInView({
