@@ -1,0 +1,23 @@
+[
+  
+  {
+    "title": "News App",
+    "image": "./projectImages/quiz.png",
+    "technologies": "React | Bootstrap | HTML | CSS | API",
+    "description": "",
+    "github": "https://github.com/Akshatdargan/News-App",
+    "bgcolor": "#29cbe0",
+    "id": "1"
+  },
+  {
+    "title": "Weather App",
+    "image": "./projectImages/bike.png",
+    "technologies": "React | Bootstrap | API | HTML | CSS",
+    "description": "",
+    "github": "https://github.com/Akshatdargan/Weather-Web-App",
+    "deployed": "",
+    "bgcolor": "#6c4bf4",
+    "id": "4"
+  }
+  
+]
